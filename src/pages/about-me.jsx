@@ -9,7 +9,7 @@ export default function AboutMe({ setTitle }) {
 
     return (
         <>
-
+Hello I am typing out some words for my web page
         </>
     )
 }

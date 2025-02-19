@@ -1,6 +1,6 @@
 .header__header-banner {
-    background: rgb(35,25,66);
-    background: linear-gradient(180deg, rgba(35,25,66,1) 0%, rgba(46,41,96,1) 50%, rgba(67,74,157,1) 100%);
+    background: rgb(255, 255, 255);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.767) 0%, rgb(99, 99, 99) 50%, rgb(255, 255, 255) 100%);
     margin-bottom: 60px;
 
     display: flex;
